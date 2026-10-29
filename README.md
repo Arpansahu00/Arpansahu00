@@ -14,7 +14,8 @@ Tech Stack-
 Featured Projects-
 
 - [IOCs Scraper](https://github.com/Arpansahu00/IOCs_scraper) — Python-based threat intelligence collection and IOC analysis.
-- [Securonix Report Automation](https://github.com/Arpansahu00/securonix-report-automation) — Automated incident reporting using the Securonix API.
+- [Securonix Report Automation](https://github.com/Arpansahu00/securonix-report-automation) — Automates incident reporting using the Securonix API.
+- [EPS Report Pipeline](https://github.com/Arpansahu00/EPS-Report-Pipeline) — Automates EPS and GB/day utilization monitoring, tenant-level data source analysis, and client reporting through styled HTML email reports.
 
 Areas of Interest-
 
