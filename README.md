@@ -1,67 +1,25 @@
 
-Hi, I'm Arpan Sahu 👋
+Hey, I'm Arpan Sahu 👋
 
-Cybersecurity Analyst | SOC Operations | SIEM | XDR | SOAR
+Cybersecurity Analyst | SOC | SIEM | XDR | SOAR
 
-Cybersecurity professional focused on threat detection, incident response, security operations, and automation.
+Cybersecurity professional passionate about threat detection, incident response, security automation, and threat intelligence.
 
-My work revolves around analyzing security events, investigating suspicious activities, and developing practical solutions to improve security monitoring and response capabilities.
+I focus on investigating security events, improving detection capabilities, and building automation solutions to streamline SOC operations.
 
-I enjoy building security automation scripts, exploring threat intelligence, and developing tools that simplify SOC workflows.
+Tech Stack-
 
----
+`Python` `Securonix` `Splunk` `Seceon` `CrowdStrike Falcon` `Trend Micro Vision One` `SOAR` `OpenCTI` `Grafana`
 
-🔐 Technical Expertise
+Featured Projects-
 
-Security Operations
-- SIEM Monitoring & Alert Triage
-- Threat Hunting & Incident Response
-- Log Analysis & Event Correlation
-- MITRE ATT&CK Framework
+- [IOCs Scraper](https://github.com/Arpansahu00/IOCs_scraper) — Python-based threat intelligence collection and IOC analysis.
+- [Securonix Report Automation](https://github.com/Arpansahu00/securonix-report-automation) — Automated incident reporting using the Securonix API.
 
-Security Technologies
-- SIEM: Securonix, Splunk, Seceon
-- EDR/XDR: CrowdStrike Falcon, Trend Micro Vision One
-- SOAR: Trend Micro SOAR
-- Threat Intelligence: OpenCTI, OSINT
-- Visualization: Grafana
+Areas of Interest-
 
-Programming & Automation
-- Python
-- REST API Integration
-- Security Automation
-- SOAR Playbook Development
+Threat Hunting · Detection Engineering · Incident Response · SOAR Automation · Cyber Threat Intelligence
 
----
+Connect With Me-
 
-🚀 Featured Projects
-
-Securonix Report Automation
-
-Automating incident management reporting using the Securonix API.
-
-[View Repository](https://github.com/Arpansahu00/securonix-report-automation)
-
-IOCs Scraper
-
-A Python-based project focused on collecting and processing Indicators of Compromise (IOCs) for threat intelligence and security analysis.
-
-[View Repository](https://github.com/Arpansahu00/IOCs_scraper)
-
----
-
-🎯 Current Interests
-
-- Security Automation & SOAR Engineering
-- Threat Intelligence & Threat Hunting
-- Detection Engineering
-- SIEM Optimization
-- Incident Response
-
----
-
-🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/arpan-sahu-743592226/)
-
-[GitHub](https://github.com/Arpansahu00)
+[LinkedIn](https://www.linkedin.com/in/arpan-sahu-743592226/) · [GitHub](https://github.com/Arpansahu00)
