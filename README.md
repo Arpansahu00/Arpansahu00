@@ -23,4 +23,4 @@ Threat Hunting · Detection Engineering · Incident Response · SOAR Automation 
 
 Connect With Me-
 
-[LinkedIn](https://www.linkedin.com/in/arpan-sahu-743592226/) · [GitHub](https://github.com/Arpansahu00)
+[LinkedIn](https://www.linkedin.com/in/arpan-sahu-743592226/) 
